@@ -318,6 +318,7 @@ static int wm_mac_str_to_mac_addr(char mac_str[20], char mac_addr[6])
 
 /*
  * Signal
+ 
  */
 int wm_signal_init(void)
 {
